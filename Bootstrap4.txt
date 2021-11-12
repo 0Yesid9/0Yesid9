@@ -1,0 +1,97 @@
+Clase 1 Repositorio Curso sede Bootstrap 4
+
+Clase 2  ¿Qué trae de nuevo esta versión?
+Libreria de framework frontend es la mas popular para el desarrollo web hoy en día.
+
+Clase 3 Ques es un framework de frontend
+Tanto bootstrap como fundation son framework frontend (o framework css) y 
+esto quiere decir que son una base para tener flexibilidad en el diseño de un 
+proyecto web y una organizacion y estructura de nuestro Html, Css y javascript.
+Con esto darle clases a los elementos de los estilos de css.
+El componente principal es la Grilla: permite organizar el contenido de nuestro
+sitio web y se adapta en diferentes dispositivos.
+Los framework frontend traen estilos para las fuentes y componentes visuales 
+pre-armados que se pueden utilizar para organizar la información.
+*Ahorrar tiempo 
+*componentes visuales
+*Responsive design
+*El codigo anda (no nos preocupamos por la compatibilidad con otros browser)
+
+Clase 4 Nuestro Proyecto: Hola Mundo de Bootstrap
+Cada fila de una grilla tiene como maximo 12 columnas.
+Nota: si te pasas de las 12 columnas bootstrap te pone debajo la siguiente columna
+
+Clase 5 Reto: La grilla de bootstrap
+Ejercio 1: Hacer una grilla de 5 filas y por cada columna repartir el tamaño
+equitativamente. (Colum1 = 3, Colum2 = 10, Colum3 = 2, Colum4 = 5, Colum5 = 1)
+Ejercicio 2: 2 filas y debe ir cambiando segun el tamaño del navegador
+(Colum1 = 4, Colum2 = 10)
+
+Clase 6 Reto
+Ejercio 1: Hacer una grilla de 5 filas y por cada columna repartir el tamaño
+equitativamente. (Colum1 = 3, Colum2 = 10, Colum3 = 2, Colum4 = 5, Colum5 = 1)
+Ejercicio 2: 2 filas y debe ir cambiando segun el tamaño del navegador
+(Colum1 = 4, Colum2 = 10)
+
+Clase 7 El footer
+Dentro de la clase se puede poner los siguientes estilos class="pb-4 pt-4"
+pb = Padding 
+pt = padding-top
+
+Clase 8 El header de nuestro sitio
+Navbar es una barra de navegación
+Dropdown = lista desplegable hacia abajo dentro de nuestra barra de navegación
+mr-auto = margin-right: auto; (Calcula el margin que tiene que ir a la derecha
+y de esta manera el sub-menu a la izquierda)
+ms-auto = margin-left: auto;
+
+Clase 9 Creando un carousel de imagenes
+
+Clase 10 agregando texto informativo del evento
+
+Clase 11 Agregando botones 
+Outline buttons: Botones que le da menos imporcia.
+
+Clase 12 Las cards de bootstrap
+Cuadros en donde se encapsula una imagen, titulo y descripcion
+
+Clase 13 Pastillas de texto
+Etiquetas de texto donde bootstrap le pone cierto tamaño de fuente relativo
+en donde se esta utilizando
+
+Clase 14 Agregando un contenedor de ancho completo
+Se ezpande a todo el ancho disponible que se tenga
+
+Clas 15 Los formularios de Bootstrap 4 
+*Caracteristica: Permite tocar en el texto y nos hace foco en el input 
+
+Clase 16 Agregando un tooltip
+Es una descripcion emergente cuando se pasa el cursor por encima de una palabra
+
+Clase 17 Scrollspy: Conocimiendo la ubicacion del usuario en el header
+Permite conocer la posicion del usuario dentro de la pagina web, con esto iluminar
+algunos de los sub-menus del header de navegación.
+Nota: el # se utiliza para una navegacion interna del sitio utilizando los ids de 
+otros elementos.
+
+Clase 18 Agregando un modal para comprar tickets
+Tienen la capacidad de mostrar un mensaje en una ventana emergente al usuario.
+Nota: Bootstrap recomienda que todos los modal se pongan fuera de nuestros elementos 
+o secciones (al nivel de nuestro body)
+
+Clase 19 Un nuevo formulario para completar la compra
+	
+Clase 20 Poniendo nuestro sitio en producción
+Para cargar un repositorio a gitHub Pages seguiras los siguientes pasos:
+en GitHub ---> New o (New repository), Repository name 
+
+
+
+
+
+
+
+
+
+
+
