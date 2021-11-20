@@ -83,8 +83,14 @@ Clase 19 Un nuevo formulario para completar la compra
 	
 Clase 20 Poniendo nuestro sitio en producción
 Para cargar un repositorio a gitHub Pages seguiras los siguientes pasos:
-en GitHub ---> New o (New repository), Repository name 
+en GitHub ---> New o (New repository), Repository name y copiar nuestro https
+En la consola se inicializa con: git init ---> despues nos dirigimos a nuestra 
+carpeta que queremos subir /c/yesid/Projects-developers-Yesid/bootstrap-4
+se agregan los archivos con git add . ----> se guarda con git commit -m "primer 
+commit con bootstrap" y se sube al repositorio con ---> git push -u origin  gh-pages
 
+Clase 21 Conclusiones del curso
+ 
 
 
 
